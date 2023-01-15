@@ -1,1 +1,1 @@
-A new template for Svelte which can be deployed to github.io using GitHub CI
+# CPS Counter
