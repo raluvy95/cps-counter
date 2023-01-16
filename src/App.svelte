@@ -30,4 +30,5 @@
   <div id="clickarea" on:click={onClick} on:keypress={onClick}>
     <p>Click here to start!</p>
   </div>
+  <p><a href="https://github.com/raluvy95/cps-counter">This project is open source</a></p>
 </main>
